@@ -1,0 +1,7 @@
+6
+9 Lahore 0 Karachi Usama Nawaz PK220 1 BUSSINESS_CLASS 78
+8 Faisalabad 0 Karachi Khawar Shahzad PK576 24 ECONOMY_CLASS 83
+14 Islamabad 20 Queeta Nawaz Ranjha PK911 5 BUSSINESS_CLASS 82
+9 Lahore 17 Chitral Ahmad Hassan PK064 13 ECONOMY_CLASS 72
+9 Lahore 0 Karachi Ali Zulfiqaar PK220 5 BUSSINESS_CLASS 90
+19 Peshawar 0 Karachi Ismail Tariq PK777 21 ECONOMY_CLASS 84 
